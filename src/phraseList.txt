@@ -1,0 +1,79 @@
+# get glados to say hello world, save it to a .wav file and resample the file to 8-bit 8khz
+# curl -L --retry 30 --get --fail --data-urlencode "text=Hello World!" -o "hello_world.wav" "https://glados.c-net.org/generate"
+# ffmpeg -i hello_world.wav -ar 8000 -ac 1 -acodec pcm_u8 output.wav
+
+# needed processing
+# 1. normalize the audio to 0db (full volume)
+# 2. decimate to 8khz
+# 3. reduce to 8-bit mono
+# 4. Perhaps create raw files (no wav data)
+
+# list of things we want glados to say
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+thirty
+fourty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+thousand
+million
+feet
+meters
+per second
+north
+south
+east
+west
+northwest
+southwest
+northeast
+southeast
+drifting
+launch
+boosting
+coasting
+touchdown
+fault
+pyro
+altitude
+velocity
+mission time
+seconds
+apogee
+ready for science
+pyros ready for flight
+status
+firing
+drogue
+main
+armed
+alert
+event
+missed
+failed
+passing
+climbing
+falling

@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "basic_lora",
+			"path": "../../basic_lora"
+		},
+		{
+			"name": "voice",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
