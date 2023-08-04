@@ -60,20 +60,18 @@ void timer_irq(void) {
   digitalWrite(TEST, LOW);
 }
 
-void sayCALLN9XXU() {
-  talkie.say(spNOVEMBER);
-  talkie.say(spNINE);
-  talkie.say(spWHISKEY);
-  talkie.say(spXRAY);
-  talkie.say(spUNIFORM);
-}
+void sayLetter(char l) {
+  uint8_t *const letters[] = {
+      spALPHA,  spBRAVO,   spCHARLIE, spDELTA, spECHO,   spFOXTROT, spGOLF,
+      spHOTEL,  spINDIA,   spJULIET,  spKILO,  spLIMA,   spMIKE,    spNOVEMBER,
+      spOSCAR,  spPAPA,    spQUEBEC,  spROMEO, spSIERRA, spTANGO,   spUNIFORM,
+      spVICTOR, spWHISKEY, spXRAY,    spPAUSE, spZULU};
+  // there is no recording of Yankee
 
-void sayCALLN9RGK() {
-  talkie.say(spNOVEMBER);
-  talkie.say(spNINE);
-  talkie.say(spROMEO);
-  talkie.say(spGOLF);
-  talkie.say(spKILO);
+  l = toupper(l);
+  if (l >= 'A' && l <= 'Z') {
+    talkie.say(letters[l - 'A']);
+  }
 }
 
 void sayNumber(long n) {
@@ -191,6 +189,19 @@ void sayNumber(long n) {
   }
 }
 
+void sayCall(char *callsign) {
+  char *c = callsign;
+  while (*c) {
+    if (isAlpha(*c)) {
+      sayLetter(*c);
+    } else if (isdigit(*c)) {
+      int i = *c - '0';
+      sayNumber(i);
+    }
+    c++;
+  }
+}
+
 void sayAltitude(uint32_t altitude) {
 
   talkie.say(spALTITUDE);
@@ -202,33 +213,37 @@ int lastCall = 0;
 void loop() {
   char message[80] = {0};
   unsigned long now = millis();
-  size_t messageLength = Serial1.readBytesUntil('\n', message, sizeof(message));
-  radio.beginFSK();
-  radio.transmitDirect();
-  delay(10);
-  talkie.say(spPAUSE);
-  if (messageLength > 0) {
-    Serial.printf("received : %s\n", message);
-    char *firstWord = strtok(message, " ");
-    if (strncmp(firstWord, "altitude", 8) == 0) {
-      char *number = strtok(NULL, " ");
-      int altitude = atoi(number);
-      sayAltitude(altitude);
-    } else if (strncmp(firstWord, "launch", 6) == 0) {
-      missionStart = millis();
-      talkie.say(spLAUNCH);
-    } else if (strncmp(firstWord, "apogee", 6) == 0) {
-      talkie.say(spHIGH);
-    } else if (strncmp(firstWord, "ready", 5) == 0) {
-      talkie.say(spREADY);
+  if (Serial1.available()) {
+    size_t messageLength =
+        Serial1.readBytesUntil('\n', message, sizeof(message));
+    radio.beginFSK();
+    radio.transmitDirect();
+    delay(10);
+    talkie.say(spPAUSE);
+    if (messageLength > 0) {
+      Serial.printf("received : %s\n", message);
+      char *firstWord = strtok(message, " ");
+      if (strncmp(firstWord, "altitude", 8) == 0) {
+        char *number = strtok(NULL, " ");
+        int altitude = atoi(number);
+        sayAltitude(altitude);
+      } else if (strncmp(firstWord, "launch", 6) == 0) {
+        missionStart = millis();
+        talkie.say(spLAUNCH);
+      } else if (strncmp(firstWord, "apogee", 6) == 0) {
+        talkie.say(spHIGH);
+      } else if (strncmp(firstWord, "ready", 5) == 0) {
+        talkie.say(spREADY);
+      } else if (strncmp(firstWord, "fail", 4) == 0) {
+        talkie.say(spNEGATIVE);
+      } else if (strncmp(firstWord, "call", 4) == 0) {
+        char *callsign = strtok(NULL, " ");
+        sayCall(callsign);
+      }
+    } else {
+      Serial.write("No data");
     }
-  } else {
-    Serial.write("No data");
-  }
 
-  if (now % 3600) {
-    sayCALLN9RGK();
+    radio.standby();
   }
-
-  radio.standby();
 }
