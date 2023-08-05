@@ -239,7 +239,10 @@ void loop() {
       } else if (strncmp(firstWord, "call", 4) == 0) {
         char *callsign = strtok(NULL, " ");
         sayCall(callsign);
+      } else if (strncmp(firstWord, "touchdown", 10) == 0) {
+        talkie.say(spTOUCHDOWN);
       }
+
     } else {
       Serial.write("No data");
     }
