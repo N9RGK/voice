@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/ArduinoHal.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/ArduinoHal.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/ArduinoHal.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/Hal.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/Hal.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/Hal.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/Module.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/Module.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/Module.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/CC1101/CC1101.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/CC1101/CC1101.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/CC1101/CC1101.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/LLCC68/LLCC68.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/LLCC68/LLCC68.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/LLCC68/LLCC68.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/RF69/RF69.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RF69/RF69.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RF69/RF69.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/RFM9x/RFM95.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM95.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM95.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/RFM9x/RFM96.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM96.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM96.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/RFM9x/RFM97.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM97.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/RFM9x/RFM97.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX1231/SX1231.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX1231/SX1231.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX1231/SX1231.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/STM32WLx.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/STM32WLx.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/STM32WLx.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/STM32WLx_Module.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/STM32WLx_Module.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/STM32WLx_Module.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/SX1261.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1261.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1261.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/SX1262.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1262.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1262.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/SX1268.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1268.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX1268.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX126x/SX126x.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX126x.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX126x/SX126x.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1272.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1272.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1272.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1273.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1273.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1273.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1276.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1276.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1276.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1277.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1277.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1277.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1278.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1278.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1278.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX1279.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1279.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX1279.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX127x/SX127x.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX127x.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX127x/SX127x.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX128x/SX1280.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1280.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1280.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX128x/SX1281.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1281.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1281.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX128x/SX1282.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1282.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX1282.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/SX128x/SX128x.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX128x.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/SX128x/SX128x.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/Si443x/Si4430.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4430.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4430.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/Si443x/Si4431.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4431.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4431.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/Si443x/Si4432.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4432.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si4432.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/Si443x/Si443x.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si443x.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/Si443x/Si443x.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/modules/nRF24/nRF24.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/nRF24/nRF24.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/modules/nRF24/nRF24.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/AFSK/AFSK.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/AFSK/AFSK.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/AFSK/AFSK.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/APRS/APRS.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/APRS/APRS.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/APRS/APRS.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/AX25/AX25.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/AX25/AX25.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/AX25/AX25.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/BellModem/BellModem.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/BellModem/BellModem.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/BellModem/BellModem.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/ExternalRadio/ExternalRadio.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/ExternalRadio/ExternalRadio.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/ExternalRadio/ExternalRadio.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/FSK4/FSK4.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/FSK4/FSK4.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/FSK4/FSK4.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/Hellschreiber/Hellschreiber.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Hellschreiber/Hellschreiber.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Hellschreiber/Hellschreiber.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/Morse/Morse.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Morse/Morse.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Morse/Morse.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/Pager/Pager.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Pager/Pager.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Pager/Pager.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/PhysicalLayer/PhysicalLayer.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/PhysicalLayer/PhysicalLayer.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/PhysicalLayer/PhysicalLayer.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/Print/ITA2String.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Print/ITA2String.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Print/ITA2String.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/Print/Print.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Print/Print.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/Print/Print.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/RTTY/RTTY.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/RTTY/RTTY.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/RTTY/RTTY.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/protocols/SSTV/SSTV.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/SSTV/SSTV.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/protocols/SSTV/SSTV.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/utils/CRC.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/CRC.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/CRC.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/utils/Cryptography.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/Cryptography.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/Cryptography.cpp"
+},
+{
+  "directory": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/build",
+  "command": "/usr/bin/clang++ -I/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/RadioLib.dir/src/utils/FEC.cpp.o -c /Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/FEC.cpp",
+  "file": "/Users/joejulicher/Documents/PlatformIO/Projects/voice/.pio/libdeps/featheresp32/RadioLib/src/utils/FEC.cpp"
+}
+]

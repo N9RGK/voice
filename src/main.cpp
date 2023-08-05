@@ -241,6 +241,11 @@ void loop() {
         sayCall(callsign);
       } else if (strncmp(firstWord, "touchdown", 10) == 0) {
         talkie.say(spTOUCHDOWN);
+      } else if (strncmp(firstWord, "ignite", 7) == 0) {
+        char *number = strtok(NULL, " ");
+        int n = atoi(number);
+        talkie.say(spIGNITE);
+        sayNumber(n);
       }
 
     } else {

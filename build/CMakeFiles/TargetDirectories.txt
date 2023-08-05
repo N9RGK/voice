@@ -1,0 +1,7 @@
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/RadioLib.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/edit_cache.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/rebuild_cache.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/list_install_components.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/install.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/install/local.dir
+/Users/joejulicher/Documents/PlatformIO/Projects/voice/build/CMakeFiles/install/strip.dir
